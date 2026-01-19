@@ -1,0 +1,126 @@
+@font-face {
+  font-family: IranSans;
+  src: url("font/IRANSansWeb_Medium.ttf");
+}
+
+*{
+box-sizing: border-box;
+text-align: center !important;
+font-family: IranSans;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #ED9900;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ED9900;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #FFBC44}
+
+#scoreadderdiv{
+	padding: 20px;
+	width: 1000px;
+	margin: 50px 500px 50px 50px;
+	border: 4px solid #4CAF50;
+	display: flex;
+	height: 250px;
+}
+
+#scoreadder{
+  font-size: 32px;
+  background-color: white;
+  color: #4CAF50;
+  border: 4px solid #4CAF50;
+  margin: 50px 50px 50px 50px;
+  border-radius: 6px;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+#scoreadder:hover{
+  background-color: #4CAF50;
+  color: white;
+  opacity: 1.0;
+}
+
+#percentcounter{
+  font-size: 32px;
+  background-color: white;
+  color: #0069AB;
+  border: 4px solid #0069AB;
+  margin: 25px;
+  border-radius: 6px;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+#percentcounter:hover{
+  background-color: #0069AB;
+  color: white;
+  opacity: 1.0;
+}
+#signscore{
+  font-size: 32px;
+  background-color: white;
+  color: #F70707;
+  border: 4px solid #F70707;
+  margin: 25px;
+  border-radius: 6px;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+#signscore:hover{
+  background-color: #F70707;
+  color: white;
+  opacity: 1.0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
